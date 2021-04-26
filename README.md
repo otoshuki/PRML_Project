@@ -1,2 +1,2 @@
 # PRML_Project
-##Music Generation using Deep Learning
+## Music Generation using Deep Learning
