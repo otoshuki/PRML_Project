@@ -1,0 +1,8 @@
+X: 1
+T: DT-GP-AKS
+M: 4/4
+L: 1/8
+Q: 1/4=90
+K: C
+V: 1
+"AG "FBfBd|"A"eddAFd0"A"B(2Gdtde2|"G"E"D eF7"D"Ge7"A||\n"G"A2G "AFA"Ff|"G"mA22BBFD|\n"Am"daf "Bm~"Em"Am27\n"D7" "A32d22|"Pg"gEd "G:"dm"EGKf|"G"/cdCe2F2|"D"G3d "f"cE|"D"d2 B"Ag|:\n
